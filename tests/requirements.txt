@@ -76,8 +76,6 @@ pytest==4.4.0
 pytest-docker-compose==1.0.1
 python-dateutil==2.7.3
 pytz==2018.7
-pywin32==224
-pywinpty==0.5.4
 PyYAML==3.13
 pyzmq==17.1.2
 qtconsole==4.4.2
